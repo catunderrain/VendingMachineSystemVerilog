@@ -1,2 +1,3 @@
-# VendingMachineSystemVerilog
-Implementation of a Vending Machine using Mealy and Moore in System Verilog
+### VendingMachineSystemVerilog
+- Implementation of a Vending Machine using Mealy and Moore in System Verilog
+---
